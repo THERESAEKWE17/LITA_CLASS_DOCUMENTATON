@@ -13,9 +13,11 @@ Data Sale.csv is the primary source of Data here,it is an open source data that 
 - Data cleaning
 - Data validation
 - Functions
-  1.SUM,SUMIF,
+  1.SUM,SUMIF
   2.MIN,MINIF
   3.MAX,MAXIF
+  2.
+  3.
   4.LARGE,LARGEIF
   5.COUNT,COUNTIF
   6.AVERAGE,AVERAGEIF
