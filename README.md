@@ -38,6 +38,8 @@ Select * from employee
 where Staffid = 'AB212'
 
 
+<img width="600" alt="TEEDASHBOARD" src="https://github.com/user-attachments/assets/0773587e-5701-4419-98ea-a61950aa5c59">
+
 
 
 
