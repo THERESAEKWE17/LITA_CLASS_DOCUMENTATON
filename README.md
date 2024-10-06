@@ -3,10 +3,10 @@
 ## Project Overview:
 Documenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA.It is indeed a learning process, how to explore and analyze large data sets to find hidden pattern,unseen trends,discover correlations and valuable insights to make business decision by leveraging tools.
 ## Data Analysis Tools
-- Microsoft Excel
+- Microsoft Excel [Download Here](https://www.microsoft.com)
 - Structured Query Language (SQL)
 - POWERBI(Business Intelligence)
-## Microsoft Excel
+## Microsoft Excel 
 - Data cleaning
 - Data validation
 - Functions
