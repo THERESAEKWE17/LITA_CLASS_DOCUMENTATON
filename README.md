@@ -1,13 +1,14 @@
 ## LITA_CLASS_DOCUMENTATON
-## Project Title:Data Analysis
+## Project Title:Sales Analysis
 ## Project Overview:
-Documenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA.It is indeed a learning process, how to explore and analyze large data sets to find hidden pattern,unseen trends,discover correlations and valuable insights to make business decision by leveraging tools.
+Documenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA.This project aims at exploring and analyzing large data sets to find hidden pattern,unseen trends,discover correlations and valuable insights to make business decision by leveraging tools.
 ### Data Sources
 Data Sale.csv is the primary source of Data here,it is an open source data that can be downloaded online,from an open source such as kaggle or any other data repository site.
 ## Data Analysis Tools
 - Microsoft Excel [Download Here](https://www.microsoft.com)
 - Structured Query Language (SQL)
 - POWERBI(Business Intelligence)
+- Github for portfolio Building
 ## Microsoft Excel 
 - Data cleaning
 - Data validation
