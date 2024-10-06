@@ -5,6 +5,20 @@ Ducumenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA
 ## Data Analysis Tools
 - Microsoft Excel
 - Structured Query Language (SQL)
-## Microsoft Excel [Download Here] (https://microsoft excel free download)
+## Microsoft Excel
+- Data cleaning(LOWER,PROPER,UPPER)
+- Data validation
+- Functions like SUM,SUMIF,
+- MIN,MINIF
+- MAX,MAXIF
+- LARGE,LARGEIF
+- COUNT,COUNTIF
+- AVERAGE,AVERAGEIF
+- Text Extraction (LEFT,MID,RIGHT,SEARCH,FIND)
+- 
+- 
+- 
+   
+
 
 
