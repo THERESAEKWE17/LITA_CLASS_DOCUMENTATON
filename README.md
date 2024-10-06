@@ -5,6 +5,7 @@ Ducumenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA
 ## Data Analysis Tools
 - Microsoft Excel
 - Structured Query Language (SQL)
+- POWERBI(Business Intelligence)
 ## Microsoft Excel
 - Data cleaning(LOWER,PROPER,UPPER)
 - Data validation
@@ -15,9 +16,27 @@ Ducumenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA
 - COUNT,COUNTIF
 - AVERAGE,AVERAGEIF
 - Text Extraction (LEFT,MID,RIGHT,SEARCH,FIND)
-- 
-- 
-- 
+- VLOOKUP
+- HLOOKUP
+- INDEX
+- MATCH
+- Conditional functions
+- Creating reports using Pivot
+  
+## Structured Query Language (SQL)
+- SQL Command
+- Data type
+- Aggregate functions
+- Join tables
+- SQL Views
+- SQL Clauses
+- Union
+
+## Writing codes e.g
+Select * from employee
+where Staffid = 'AB212'
+
+
    
 
 
