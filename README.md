@@ -1,5 +1,5 @@
-# LITA_CLASS_DOCUMENTATON
-## Project Topic:Data Analysis
+## LITA_CLASS_DOCUMENTATON
+## Project Title:Data Analysis
 ## Project Overview:
 Documenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA.It is indeed a learning process, how to explore and analyze large data sets to find hidden pattern,unseen trends,discover correlations and valuable insights to make business decision by leveraging tools.
 ### Data Sources
