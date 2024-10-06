@@ -1,20 +1,21 @@
 # LITA_CLASS_DOCUMENTATON
 ## Project Topic:Data Analysis
 ## Project Overview:
-Ducumenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA.It is indeed a learning process of how to explore and analyze large data sets to find hidden pattern,unseen trends,discover correlations and valuable insights to make business decision by leveraging tools.
+Documenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA.It is indeed a learning process, how to explore and analyze large data sets to find hidden pattern,unseen trends,discover correlations and valuable insights to make business decision by leveraging tools.
 ## Data Analysis Tools
 - Microsoft Excel
 - Structured Query Language (SQL)
 - POWERBI(Business Intelligence)
 ## Microsoft Excel
-- Data cleaning(LOWER,PROPER,UPPER)
+- Data cleaning
 - Data validation
-- Functions like SUM,SUMIF,
-- MIN,MINIF
-- MAX,MAXIF
-- LARGE,LARGEIF
-- COUNT,COUNTIF
-- AVERAGE,AVERAGEIF
+- Functions
+  1.SUM,SUMIF,
+  2.MIN,MINIF
+  3.MAX,MAXIF
+  4.LARGE,LARGEIF
+  5.COUNT,COUNTIF
+  6.AVERAGE,AVERAGEIF
 - Text Extraction (LEFT,MID,RIGHT,SEARCH,FIND)
 - VLOOKUP
 - HLOOKUP
@@ -36,10 +37,10 @@ Ducumenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA
 ```SQL
 Select * from employee
 where Staffid = 'AB212'
+```
+## DATA VISUALIZATION
 
-
-<img width="600" alt="TEEDASHBOARD" src="https://github.com/user-attachments/assets/0773587e-5701-4419-98ea-a61950aa5c59">
-
+<img width="600" alt="TEEDASHBOARD" src="https://github.com/user-attachments/assets/d79f1ef8-12ae-4b72-a93e-dc5e94f3b1b0">
 
 
 
