@@ -12,21 +12,17 @@ Data Sale.csv is the primary source of Data here,it is an open source data that 
 ## Microsoft Excel 
 - Data cleaning
 - Data validation
-- Functions
-  1.SUM,SUMIF
-  2.MIN,MINIF
-  3.MAX,MAXIF
-  2.
-  3.
-  4.LARGE,LARGEIF
-  5.COUNT,COUNTIF
-  6.AVERAGE,AVERAGEIF
+- Functions like SUM,SUMIF
+- MIN,MINIF
+- MAX,MAXIF
+- LARGE,LARGEIF
+- COUNT,COUNTIF
+- AVERAGE,AVERAGEIF
 - Text Extraction (LEFT,MID,RIGHT,SEARCH,FIND)
 - VLOOKUP
 - HLOOKUP
 - INDEX
 - MATCH
-- Conditional functions
 - Creating reports using Pivot
   
 ## Structured Query Language (SQL)
