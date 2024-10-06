@@ -33,6 +33,7 @@ Ducumenting my Journey in Data Analysis with INCUBATOR HUB/LADIES IN TECH AFRICA
 - Union
 
 ## Writing codes e.g
+```SQL
 Select * from employee
 where Staffid = 'AB212'
 
